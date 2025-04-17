@@ -115,4 +115,4 @@ This will:
 ## 👨‍💻 Author
 
 **Nisarg Adalja**  
-🔗 [GitHub](https://github.com/nisarg291) | [LinkedIn](https://linkedin.com/in/nisarg-adalja)
+🔗 [GitHub](https://github.com/nisarg291) | [LinkedIn](https://www.linkedin.com/in/nisarg-adalja-446434197/)
